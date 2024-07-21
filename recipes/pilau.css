@@ -1,0 +1,56 @@
+/* pilau.css */
+
+/* Reset default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set background color */
+body {
+    background-color: #f2f2f2;
+}
+
+/* Style the header */
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Style the recipe container */
+.recipe {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the recipe title */
+.recipe h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Style the recipe ingredients */
+.recipe ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Style the recipe instructions */
+.recipe ol {
+    list-style-type: decimal;
+    margin-left: 20px;
+}
+
+/* Style the recipe image */
+.recipe img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}

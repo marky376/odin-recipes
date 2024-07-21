@@ -1,0 +1,24 @@
+* {
+    font-family: 'Times New Roman', serif;
+    font-size: 20px;
+    color: grey;
+    padding: 10px;
+}
+
+h2 {
+    font-weight: bold;
+    background-color: seagreen;
+}
+
+li {
+    font-weight: 600;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 900;
+    color: purple;
+    background-color: seagreen;
+}
